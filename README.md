@@ -1,5 +1,7 @@
 # Modeling of an infocommunication queuing system based on queue theory
 
+[Основные теоретические положения](./Theory.pdf)
+
 ## Функция алгоритма ***Шрайбера-Шмитца***
 ```
 function z=alg_SHSH(S_tek, H, n,N) % Алгоритм Шрайбера-Шмитца
